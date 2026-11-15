@@ -26,7 +26,6 @@
 | [Rivet](https://rivet.dev/) | 面向 AI Agent 的开源运行与编排平台，提供持久执行、状态持久化及不受信任代码执行能力，支持自托管；[开源仓库](https://github.com/rivet-dev/rivet) | `Agent` `持久执行` `自托管` |
 | [Nango](https://github.com/NangoHQ/nango) | 面向 AI Agent 的集成平台，提供预构建 API 工具、托管身份认证、API 代理及数据同步，支持使用 TypeScript 自定义集成；[官网](https://nango.dev/) | `Agent` `API集成` `身份认证` |
 | [magpie](https://github.com/yetone/magpie) | 面向 Coding Agent 的模型管理工具，通过本地网关统一配置模型和服务商，支持账号与模型切换及额度耗尽时的故障转移；[官网](https://usemagpie.ai/) | `CodingAgent` `模型网关` `多模型` |
-
 | [Composio](https://github.com/ComposioHQ/composio) | 面向 AI Agent 的工具集成平台 SDK，连接众多应用，提供用户会话、身份认证、触发器及沙箱，支持 Python、TypeScript 和主流 Agent 框架；[官网](https://composio.dev/) | `Agent` `工具集成` `SDK` |
 
 ## 设计站点 (Design & Inspiration)
